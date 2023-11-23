@@ -13,7 +13,8 @@ pip install -r requirments.txt
 
 ```
 
-** Run the Tests**
+** Run the Tests **
+
 Make sure to activate the virtual environment
 
 ```
